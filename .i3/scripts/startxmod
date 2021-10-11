@@ -1,0 +1,3 @@
+#!/bin/bash
+#setxkbmap -v nivo -variant basic  
+xmodmap /home/john/.Xmodmap 
