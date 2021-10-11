@@ -1,0 +1,38 @@
+coc.nvim
+  autocompletion
+
+indentLine
+  show indent line
+
+indexed-search
+  show n of N matches (similar functionality is included in vim8 and airline)
+
+majutsushi-tagbar-53e9cb0
+  F8 for definitions
+  requires lushtags for haskell
+ 
+rainbow_parentheses.vim
+  Highlight parentheses (not that useful)
+
+surround
+  ds: delete surrounding
+  cs: change surrounding
+  ys<mov>: you surround (add surrounding)
+  yss: surround line
+
+  ([{: with space
+  )]}: no space
+
+svndiff
+
+tagbar-haskell.vim
+
+vim-airline
+  status bar
+
+vim-dirdiff
+  vim -c "DirDiff dir1 dir2"
+  move between windows: Ctrl+W [W|h|j|k|l]
+
+vim-repeat
+  repeat plugin
